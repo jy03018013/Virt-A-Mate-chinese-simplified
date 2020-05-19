@@ -4,7 +4,7 @@ Chinese simplified translation for Virt-A-Mate
 
 Changelog
 
-V1.2支持最新版1.19.2.1
+V1.2支持最新版1.19.2.2
 
 V1.1
 修复部分汉化错误与遗漏，汉化初始界面
