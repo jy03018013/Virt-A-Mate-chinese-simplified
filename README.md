@@ -3,6 +3,7 @@ Chinese simplified translation for Virt-A-Mate
 
 
 Changelog
+
 V1.2支持最新版1.19.2.1
 
 V1.1
