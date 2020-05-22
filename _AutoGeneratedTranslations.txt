@@ -1171,23 +1171,23 @@ r:"^Person ([0-9]+)$"=人物 $1
 r:"^Makeup ([0-9]+)$"=化妆 $1
 r:"^Version: $"=版本: 
 
-SkyMuseum=博物馆空间
-SkyAustria=奥地利空间
-SkyItalianStreet=意大利街景空间
-SkyForest=森林空间
-SkyPisa=比萨街景空间
-SkyRooftop=屋顶空间
-SkyCity=城市空间
-SkyGray=阴雨天空间
-SkyDaySunMidClear=阳光明媚的空间
-SkyDaySunMidSummer=仲夏的空间
-SkyDaySunSunsetClear=日落晴朗的空间
-SkyDaySunSunsetSummer=夏季日落的空间
-SkyDaySunLowHorizonRich=日低地平的空间
-SkyNightMoonHighClear=月高晴朗的空间
-SkyCartoonSunsetLightClouds=卡通风格日光云彩空间
-SkyEpicCentreOfTheStorm=暴风雨空间
-SkyFantasyFire=火烧云空间
+SkyMuseum=博物馆天空
+SkyAustria=奥地利天空
+SkyItalianStreet=意大利街景天空
+SkyForest=森林天空
+SkyPisa=比萨街景天空
+SkyRooftop=屋顶天空
+SkyCity=城市天空
+SkyGray=阴雨天天空
+SkyDaySunMidClear=阳光明媚的天空
+SkyDaySunMidSummer=仲夏的天空
+SkyDaySunSunsetClear=日落晴朗的天空
+SkyDaySunSunsetSummer3=夏季日落的天空
+SkyDaySunLowHorizonRich=日低地平的天空
+SkyNightMoonHighClear=月高晴朗的天空
+SkyCartoonSunsetLightClouds=卡通风格日光云彩天空
+SkyEpicCentreOfTheStorm=暴风雨天空
+SkyFantasyFire=火烧云天空
 
 ModernRoomLargeLamp=现代风格室内大灯
 Torch=火把
@@ -1254,11 +1254,9 @@ DSBR_Chair=DSBR_椅子
 DSBR_Bench=DSBR_长凳
 DSBR_Bed=DSBR_床
 DSBR_2TierTable=DSBR_吧台椅
-
 IslStool=Isl便凳
 IslPatioChair=Isl露台椅
 IslBench=Isl长凳
-
 TechnoThrone=Techno王座
 TechnoDancePole=Techno钢管舞用的钢管
 OldStyleVanityStool=欧式老式凳子
@@ -1267,10 +1265,3 @@ OldStyleChair=欧式老式椅子
 OldStyleBed=欧式老式床
 ModernRoomBed=现代卧室床
 LoungeChair=躺椅
-
-
-
-
-
-
-
